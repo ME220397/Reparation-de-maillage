@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libMeshReconstruction.a CMakeFiles/MeshReconstruction.dir/MeshReconstruction.cpp.o CMakeFiles/MeshReconstruction.dir/Cube.cpp.o CMakeFiles/MeshReconstruction.dir/IO.cpp.o CMakeFiles/MeshReconstruction.dir/Triangulation.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libMeshReconstruction.a

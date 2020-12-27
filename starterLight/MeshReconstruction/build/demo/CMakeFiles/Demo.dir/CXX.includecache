@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/DataStructs.h
+vector
+-
+array
+-
+functional
+-
+cmath
+-
+
+../lib/IO.h
+string
+-
+DataStructs.h
+../lib/DataStructs.h
+
+../lib/MeshReconstruction.h
+DataStructs.h
+../lib/DataStructs.h
+
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/demo/main.cpp
+MeshReconstruction.h
+-
+IO.h
+-
+

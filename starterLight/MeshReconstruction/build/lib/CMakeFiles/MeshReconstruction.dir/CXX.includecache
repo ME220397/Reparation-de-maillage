@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/Cube.cpp
+Cube.h
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/Cube.h
+cmath
+-
+
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/Cube.h
+DataStructs.h
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/DataStructs.h
+
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/DataStructs.h
+vector
+-
+array
+-
+functional
+-
+cmath
+-
+
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/IO.cpp
+IO.h
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/IO.h
+
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/IO.h
+string
+-
+DataStructs.h
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/DataStructs.h
+
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/MeshReconstruction.cpp
+MeshReconstruction.h
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/MeshReconstruction.h
+Cube.h
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/Cube.h
+Triangulation.h
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/Triangulation.h
+
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/MeshReconstruction.h
+DataStructs.h
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/DataStructs.h
+
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/Triangulation.cpp
+Triangulation.h
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/Triangulation.h
+
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/Triangulation.h
+Cube.h
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/Cube.h
+DataStructs.h
+/Users/eliasmunoz/Documents/Git Projects/Reparation-de-maillage/starterLight/MeshReconstruction/lib/DataStructs.h
+
